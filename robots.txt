@@ -2,6 +2,7 @@ User-agent: *
 Disallow: /cgi-bin
 
 <script src="//code.jivosite.com/widget/AD8zN0WybD" async></script>
+
 <!-- Facebook Pixel Code -->
 <script>
   !function(f,b,e,v,n,t,s)
@@ -19,4 +20,5 @@ Disallow: /cgi-bin
   src="https://www.facebook.com/tr?id=300031607857659&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
+
 
