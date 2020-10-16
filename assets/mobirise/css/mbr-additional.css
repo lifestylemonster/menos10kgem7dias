@@ -895,7 +895,7 @@ section.lazy-placeholder:after {
 .cid-sdB6YfGAZE {
   background: #000000;
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
 }
 .cid-sdB6YfGAZE .image-block {
   margin: auto;
@@ -914,7 +914,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-saQD5qclu4 {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 75px;
   background-color: #000000;
 }
@@ -925,7 +925,7 @@ section.lazy-placeholder:after {
   margin: 0 0 .5rem 0;
 }
 .cid-scav1eWo3s {
-  padding-top: 45px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #000000;
 }
@@ -960,7 +960,7 @@ section.lazy-placeholder:after {
   color: #efefef;
 }
 .cid-scasa7kaxv {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #000000;
 }
@@ -1191,14 +1191,12 @@ section.lazy-placeholder:after {
   margin: 5px 10px;
   line-height: 20px;
   transition: all .2s;
-  color: #000000;
-  background: #ffffff;
+  color: #ffffff;
+  background: #000000;
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  background: none;
-  border: 1px solid #ffffff;
-  color: #ffffff;
+  border-radius: 0;
   content: '✓';
 }
 .cid-sdBpAv8ZvL .mbr-text {
