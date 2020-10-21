@@ -797,10 +797,40 @@ section.lazy-placeholder:after {
 .cid-sc4zosWUcX .mbr-text P {
   text-align: left;
 }
-.cid-sdRma1632k {
+.cid-sdA0pgU4Dm {
   padding-top: 0px;
   padding-bottom: 0px;
-  background: linear-gradient(45deg, #000000, #000000);
+  background-color: #000000;
+}
+.cid-sdA0pgU4Dm .counter-container {
+  color: #767676;
+}
+.cid-sdA0pgU4Dm .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-sdA0pgU4Dm .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-sdA0pgU4Dm .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #ca1111;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+.cid-sdA0pgU4Dm .mbr-text {
+  color: #efefef;
 }
 .cid-sdAU7Ban0N {
   background: #000000;
